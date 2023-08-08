@@ -16,15 +16,15 @@
 }
 
 .card-box {
-    height: 210px;
-    width: 400px;
+    height: 26vh;
+    width: 29vw;
     background-color: #43256f;
     background-image: linear-gradient(225deg, #43256f 0%, #4d236f 50%, #1d4867 100%);
     border-radius: 5%;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between;
+    /* justify-content: space-; */
     padding: 15px;
     overflow: hidden;
     transition: all .5s ease-in-out 0s;
@@ -32,7 +32,7 @@
 }
 
 .card-box:hover {
-    height: 400px;
+    height: 60vh;
     /* padding-bottom: 15px; */
 }
 
@@ -92,7 +92,7 @@
     text-align: center;
     color: wheat;
     font-size: 24px;
-    margin-bottom: 30px;
+    margin-bottom: 80px;
 }
 
 .icons {
