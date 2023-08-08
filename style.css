@@ -16,8 +16,8 @@
 }
 
 .card-box {
-    height: 13rem;
-    width: 24rem;
+    height: 210px;
+    width: 400px;
     background-color: #43256f;
     background-image: linear-gradient(225deg, #43256f 0%, #4d236f 50%, #1d4867 100%);
     border-radius: 5%;
@@ -32,8 +32,8 @@
 }
 
 .card-box:hover {
-    height: 25rem;
-    padding-bottom: 3rem;
+    height: 400px;
+    /* padding-bottom: 15px; */
 }
 
 .name-image {
@@ -53,9 +53,9 @@
 
 .name-image h1 {
     font-family: 'Libre Baskerville', serif;
-    font-size: 2rem;
+    font-size: 35px;
     color: rgb(171, 113, 153);
-    height: 2.8rem;
+    height: 45px;
     width: 0;
     overflow: hidden;
 }
@@ -91,7 +91,8 @@
     font-weight: bold;
     text-align: center;
     color: wheat;
-    font-size: 1.5rem;
+    font-size: 24px;
+    margin-bottom: 30px;
 }
 
 .icons {
@@ -103,8 +104,8 @@
 
 .icons li {
     list-style: none;
-    height: 3rem;
-    width: 3rem;
+    height: 60px;
+    width: 60px;
     border-radius: 50%;
     background-color: black;
     text-align: center;
