@@ -16,8 +16,8 @@
 }
 
 .card-box {
-    height: 26vh;
-    width: 29vw;
+    height: 200px;
+    width: 420px;
     background-color: #43256f;
     background-image: linear-gradient(225deg, #43256f 0%, #4d236f 50%, #1d4867 100%);
     border-radius: 5%;
@@ -32,7 +32,7 @@
 }
 
 .card-box:hover {
-    height: 60vh;
+    height: 450px;
     /* padding-bottom: 15px; */
 }
 
