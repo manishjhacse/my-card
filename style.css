@@ -64,6 +64,10 @@
         font-size: 26px;
         height: 35px;
     }
+    .card-box{
+        height: 190px;
+    }
+
 }
 
 .name-image h1 {
